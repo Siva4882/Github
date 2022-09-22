@@ -1,0 +1,17 @@
+total 68
+drwxr-x--- 5 ubuntu ubuntu  4096 Aug 24 06:56 .
+drwxr-xr-x 3 root   root    4096 Aug 23 05:57 ..
+-rw------- 1 ubuntu ubuntu  1871 Aug 23 14:46 .bash_history
+-rw-r--r-- 1 ubuntu ubuntu   220 Jan  6  2022 .bash_logout
+-rw-r--r-- 1 ubuntu ubuntu  3771 Jan  6  2022 .bashrc
+drwx------ 2 ubuntu ubuntu  4096 Aug 23 05:26 .cache
+-rw-r--r-- 1 ubuntu ubuntu   807 Jan  6  2022 .profile
+-rw-r--r-- 1 ubuntu ubuntu 12288 Aug 23 10:09 .script.sh.swp
+drwx------ 2 ubuntu ubuntu  4096 Aug 23 05:09 .ssh
+-rw-r--r-- 1 ubuntu ubuntu     0 Aug 23 05:29 .sudo_as_admin_successful
+-rw------- 1 ubuntu ubuntu  7736 Aug 24 06:56 .viminfo
+-rw-rw-r-- 1 ubuntu ubuntu     0 Aug 24 06:56 file1.txt
+-rw-rw-r-- 1 ubuntu ubuntu    51 Aug 24 06:54 file2.txt
+-rw-rw-r-- 1 ubuntu ubuntu    33 Aug 23 10:58 scrip.sh
+-rwxrwxrwx 1 ubuntu ubuntu    35 Aug 24 06:56 script.sh
+drwxrwxr-x 2 ubuntu ubuntu  4096 Aug 23 11:01 visual
